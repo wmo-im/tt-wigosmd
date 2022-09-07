@@ -30,3 +30,9 @@
 
 ## Meetings
 [Meetings](https://github.com/wmo-im/tt-wigosmd/wiki/Meetings)
+
+## Project Boards
+* [Fast-Track Approval Procedure](https://github.com/wmo-im/wmds/projects/10)
+* [Repository and Registry Maintenance](https://github.com/wmo-im/wmds/projects/9)
+* [WIGOS metadata KPI implementation and assessment tool](https://github.com/wmo-im/wmds/projects/8)
+* [https://github.com/wmo-im/wmds/projects/6](https://github.com/wmo-im/wmds/projects/6)
