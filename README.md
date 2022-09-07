@@ -9,7 +9,7 @@
 
 ## Membership
 * Team: [@wmo-im/tt-wigosmd](https://github.com/orgs/wmo-im/teams/tt-wigosmd)
-* Collaborators [@wmo-im/tt-wigosmd-collab](https://github.com/orgs/wmo-im/teams/tt-wigosmetadata-collaborators)
+* Collaborators: [@wmo-im/tt-wigosmd-collab](https://github.com/orgs/wmo-im/teams/tt-wigosmd-collab)
 
 | Name | Affiliation | GitHub handle |
 | --- | --- | --- |
