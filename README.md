@@ -14,11 +14,11 @@
 | Name | Affiliation | GitHub handle |
 | --- | --- | --- |
 | Joerg KLAUSEN (Lead) | MeteoSwiss |[@joergklausen](https://github.com/orgs/wmo-im/people/joergklausen)
-| Gao CHEN| USA| @x
+| Gao CHEN| USA| [@gaochen-larc](https://github.com/orgs/wmo-im/people/gaochen-larc)
 | Juan BIANCHI | Argentina| [@jbianchi81](https://github.com/orgs/wmo-im/people/jbianchi81)
-| Lara FERRIGHI | Norway| @x
-| Rainer MAERZ | Germany| @x
-| x|x| @x
+| Lara FERRIGHI | Norway| [@ferrighi](https://github.com/orgs/wmo-im/people/ferrighi)
+| Rainer MAERZ | Germany| [@RMaerz](https://github.com/orgs/wmo-im/people/RMaerz)
+| Shuli HANS|China| [@hansl2022](https://github.com/orgs/wmo-im/people/hansl2022)
 
 ## WMO Secretariat
 
