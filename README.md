@@ -8,12 +8,17 @@
 *   [https://github.com/wmo-im/WMDR2-Codes](https://github.com/wmo-im/WMDR2-Codes)
 
 ## Membership
+* Team: [@wmo-im/tt-wigosmd](https://github.com/orgs/wmo-im/teams/tt-wigosmd)
+* Collaborators [@wmo-im/tt-wigosmd-collab](https://github.com/orgs/wmo-im/teams/tt-wigosmetadata-collaborators)
 
-all team: [@wmo-im/tt-wigosmd](https://github.com/orgs/wmo-im/teams/tt-wigosmd)
-
-| Name | Agency | GitHub handle |
+| Name | Affiliation | GitHub handle |
 | --- | --- | --- |
-| Joerg KLAUSEN (Lead) | MeteoSwiss |[@joergklausen](https://github.com/orgs/wmo-im/people/joergklausen)|
+| Joerg KLAUSEN (Lead) | MeteoSwiss |[@joergklausen](https://github.com/orgs/wmo-im/people/joergklausen)
+| Gao CHEN| USA| @x
+| Juan BIANCHI | Argentina| [@jbianchi81](https://github.com/orgs/wmo-im/people/jbianchi81)
+| Lara FERRIGHI | Norway| @x
+| Rainer MAERZ | Germany| @x
+| x|x| @x
 
 ## WMO Secretariat
 
