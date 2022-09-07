@@ -1,12 +1,5 @@
 # Task Team on WIGOS Metadata
 
-## Repositories
-
-*   https://github.com/wmo-im/WMDR
-*   https://github.com/wmo-im/WMDS
-*   https://github.com/wmo-im/WMDR2
-*   [https://github.com/wmo-im/WMDR2-Codes](https://github.com/wmo-im/WMDR2-Codes)
-
 ## Membership
 * Team: [@wmo-im/tt-wigosmd](https://github.com/orgs/wmo-im/teams/tt-wigosmd)
 * Collaborators: [@wmo-im/tt-wigosmd-collab](https://github.com/orgs/wmo-im/teams/tt-wigosmd-collab)
@@ -30,6 +23,12 @@
 
 ## Meetings
 [Meetings](https://github.com/wmo-im/tt-wigosmd/wiki/Meetings)
+
+## Repositories
+*   https://github.com/wmo-im/WMDR
+*   https://github.com/wmo-im/WMDS
+*   https://github.com/wmo-im/WMDR2
+*   [https://github.com/wmo-im/WMDR2-Codes](https://github.com/wmo-im/WMDR2-Codes)
 
 ## Project Boards
 * [Codelist Amendments for WMDR](https://github.com/wmo-im/wmds/projects/6)
