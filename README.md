@@ -32,7 +32,8 @@
 [Meetings](https://github.com/wmo-im/tt-wigosmd/wiki/Meetings)
 
 ## Project Boards
+* [Codelist Amendments for WMDR](https://github.com/wmo-im/wmds/projects/6)
+* [WIGOS Metadata KPI Implementation](https://github.com/wmo-im/wmdr/projects/3)
+* [WMDR XML Schema Definition v2.0](https://github.com/wmo-im/wmdr/projects/1)
 * [Fast-Track Approval Procedure](https://github.com/wmo-im/wmds/projects/10)
 * [Repository and Registry Maintenance](https://github.com/wmo-im/wmds/projects/9)
-* [WIGOS metadata KPI implementation and assessment tool](https://github.com/wmo-im/wmds/projects/8)
-* [https://github.com/wmo-im/wmds/projects/6](https://github.com/wmo-im/wmds/projects/6)
