@@ -19,7 +19,6 @@
 | --- | --- |
 | Ms Anna MILAN |[@amilan17](https://github.com/orgs/wmo-im/people/amilan17) |
 | Mr Enrico FUCILE |[@efucile](https://github.com/orgs/wmo-im/people/efucile) |
-| Ms Xiaoxia CHEN |[@chenxiaoxia2019](https://github.com/chenxiaoxia2019) |
 
 ## Meetings
 [Meetings](https://github.com/wmo-im/tt-wigosmd/wiki/Meetings)
