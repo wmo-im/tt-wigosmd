@@ -27,8 +27,8 @@
 *   https://github.com/wmo-im/WMDR
 *   https://github.com/wmo-im/WMDS
 *   https://github.com/wmo-im/WMDR2
-*   [https://github.com/wmo-im/WMDR2-Codes](https://github.com/wmo-im/WMDR2-Codes)
-
+*   https://github.com/wmo-im/WMDR2-Codes
+*   https://github.com/wmo-im/pywmdr
 ## Project Boards
 * [Codelist Amendments for WMDR](https://github.com/wmo-im/wmds/projects/6)
 * [WIGOS Metadata KPI Implementation](https://github.com/wmo-im/wmdr/projects/3)
