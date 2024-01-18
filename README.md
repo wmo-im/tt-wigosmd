@@ -8,8 +8,6 @@
 | --- | --- | --- |
 | Joerg KLAUSEN (Lead) | MeteoSwiss |[@joergklausen](https://github.com/orgs/wmo-im/people/joergklausen)
 | Gao CHEN| USA| [@gaochen-larc](https://github.com/orgs/wmo-im/people/gaochen-larc)
-| Lara FERRIGHI | Norway| [@ferrighi](https://github.com/orgs/wmo-im/people/ferrighi)
-| Rainer MAERZ | Germany| [@RMaerz](https://github.com/orgs/wmo-im/people/RMaerz)
 | Shuli HANS|China| [@hansl2022](https://github.com/orgs/wmo-im/people/hansl2022)
 
 ## WMO Secretariat
