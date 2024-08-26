@@ -1,21 +1,18 @@
 # Task Team on WIGOS Metadata
 
 ## Membership
-* Team: [@wmo-im/tt-wigosmd](https://github.com/orgs/wmo-im/teams/tt-wigosmd)
+* All Team: [@wmo-im/tt-wigosmd](https://github.com/orgs/wmo-im/teams/tt-wigosmd)
 * Collaborators: [@wmo-im/tt-wigosmd-collab](https://github.com/orgs/wmo-im/teams/tt-wigosmd-collab)
 
-| Name | Affiliation | GitHub handle |
-| --- | --- | --- |
-| Joerg KLAUSEN (Lead) | MeteoSwiss |[@joergklausen](https://github.com/orgs/wmo-im/people/joergklausen)
-| Gao CHEN| USA| [@gaochen-larc](https://github.com/orgs/wmo-im/people/gaochen-larc)
-| Shuli HANS|China| [@hansl2022](https://github.com/orgs/wmo-im/people/hansl2022)
-
-## WMO Secretariat
-
-| Name | GitHub handle |
-| --- | --- |
-| Ms Anna MILAN |[@amilan17](https://github.com/orgs/wmo-im/people/amilan17) |
-| Mr Enrico FUCILE |[@efucile](https://github.com/orgs/wmo-im/people/efucile) |
+|Name | Member | GitHub handle |
+|---|---|---|
+|Jörg	KLAUSEN (Chair)|Switzerland|[@joergklausen](https://github.com/joergklausen) 
+|Lance	BRAASCH|USA|[@TBA](https://github.com/TBA)
+|Gao CHEN|USA|[@gaochen-larc](https://github.com/gaochen-larc)
+|Shuli HAN|China|[@hansl2022](https://github.com/hansl2022)
+|Anne	KAMAU|Kenya|[@TBA](https://github.com/TBA)
+|Naicker	SIVASHNI|South Africa|[@TBA](https://github.com/TBA)
+|Anna MILAN|WMO Secretariat|[@amilan17](https://github.com/orgs/amilan17)
 
 ## Meetings
 [Meetings](https://github.com/wmo-im/tt-wigosmd/wiki/Meetings)
@@ -26,9 +23,9 @@
 *   https://github.com/wmo-im/WMDR2
 *   https://github.com/wmo-im/WMDR2-Codes
 *   https://github.com/wmo-im/pywmdr
+*   
 ## Project Boards
-* [Codelist Amendments for WMDR](https://github.com/wmo-im/wmds/projects/6)
+* [Codelist Amendments for WMDR](https://github.com/orgs/wmo-im/projects/55)
+* [Fast-Track Approval Procedure](https://github.com/orgs/wmo-im/projects/25)
 * [WIGOS Metadata KPI Implementation](https://github.com/wmo-im/wmdr/projects/3)
 * [WMDR XML Schema Definition v2.0](https://github.com/wmo-im/wmdr/projects/1)
-* [Fast-Track Approval Procedure](https://github.com/wmo-im/wmds/projects/10)
-* [Repository and Registry Maintenance](https://github.com/wmo-im/wmds/projects/9)
