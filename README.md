@@ -4,13 +4,15 @@
 * All Team: [@wmo-im/tt-wigosmd](https://github.com/orgs/wmo-im/teams/tt-wigosmd)
 * Collaborators: [@wmo-im/tt-wigosmd-collab](https://github.com/orgs/wmo-im/teams/tt-wigosmd-collab)
 
-|Name | Member | GitHub handle |
+|Name | Affiliation | GitHub handle |
 |---|---|---|
 |Jörg	KLAUSEN (Chair)|Switzerland|[@joergklausen](https://github.com/joergklausen) 
-|Lance	BRAASCH|USA|[@TBA](https://github.com/TBA)
+|Lance BRAASCH|USA|[@lancebraasch](https://github.com/lancebraasch)
 |Gao CHEN|USA|[@gaochen-larc](https://github.com/gaochen-larc)
+|Sylvain GRELLET|France|[@sgrellet](https://github.com/sgrellet)
 |Shuli HAN|China|[@hansl2022](https://github.com/hansl2022)
-|Anne	KAMAU|Kenya|[@TBA](https://github.com/TBA)
+|Anne	KAMAU|Kenya|[@kamauanne-cpu](https://github.com/kamauanne-cpu)
+|Paolo LEONI|Italy|[@TBA](https://github.com/TBA)
 |Naicker	SIVASHNI|South Africa|[@TBA](https://github.com/TBA)
 |Anna MILAN|WMO Secretariat|[@amilan17](https://github.com/orgs/amilan17)
 
