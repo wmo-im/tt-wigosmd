@@ -11,7 +11,7 @@
 |Gao CHEN|USA|[@gaochen-larc](https://github.com/gaochen-larc)
 |Shuli HAN|China|[@hansl2022](https://github.com/hansl2022)
 |Paolo LEONI|Italy|[@PaoloLeoniIT](https://github.com/PaoloLeoniIT)
-|Jon	MUNGAI|Kenya|[@TBA](https://github.com/TBA)
+|Ann KUMAU |Kenya|[@kamauanne-cpu](https://github.com/kamauanne-cpu)
 |Sivashni NAICKER	|South Africa|[@TBA](https://github.com/TBA)
 |Anna MILAN|WMO Secretariat|[@amilan17](https://github.com/orgs/amilan17)
 
